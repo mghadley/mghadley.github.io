@@ -1,0 +1,17 @@
+body, html {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+	height: 200px;
+	background-color: #E5E5E5;
+	margin: 0;
+	line-height: 200px;
+	text-align: center;
+	border-bottom: solid 1px #CECCCC;
+}
+
+.logo {
+	line-height: 200px;
+}
